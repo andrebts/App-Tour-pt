@@ -5,9 +5,9 @@ O objetivo do projeto é servir de base para a criação de aplicativos que nece
 
 Screenshots
 -------
-<a href="url"><img src=./art/Screenshot_2016-06-08-12-41-15.png height="550"  ></a>
-<a href="url"><img src=./art/Screenshot_2016-06-08-12-41-19.png height="550"  ></a>
-<a href="url"><img src=./art/Screenshot_2016-06-08-12-30-15.png height="550"  ></a>
+<a href="url"><img src=./art/Screenshot_2016-06-08-12-41-15.png height="400"  ></a>
+<a href="url"><img src=./art/Screenshot_2016-06-08-12-41-19.png height="400"  ></a>
+<a href="url"><img src=./art/Screenshot_2016-06-08-12-30-15.png height="400"  ></a>
 
 Me
 -------
